@@ -12,8 +12,6 @@ alarm_v2 is a alarm, and it provides 21 skins for your choice, and it takes up l
 
 alarm_v2 need JDK-1.7 or above.
 
-You can get the runable jar file [alarm_v2.jar](https://github.com/Hongten/alarm_v2/tree/master/jar/alarm_v2.jar) to run first.
-
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_structure.png)
 
 # Main Panel
