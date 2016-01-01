@@ -1,9 +1,11 @@
 # alarm_v2
 
 alarm_v2 is a alarm, and it provides 21 skins for your choice, and it takes up less CPU resources when it running.
+
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_cpu_usage.png)
 
 # skin and theme
+
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_skin.png)
 
 # structure
