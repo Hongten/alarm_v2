@@ -1,6 +1,6 @@
 # alarm_v2
 
-alarm_v2 is a alarm, and it provides 21 skins for your choice, and it takes up less CPU resources when it running.
+alarm_v2 is a `alarm`, and it provides 21 skins for your choice, and it takes up less CPU resources when it running.
 
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_cpu_usage.png)
 
@@ -10,19 +10,19 @@ alarm_v2 is a alarm, and it provides 21 skins for your choice, and it takes up l
 
 # structure
 
-alarm_v2 need JDK-1.7 or above.
+alarm_v2 need `JDK-1.7 or above`.
 
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_structure.png)
 
 # Main Panel
 
-The main panel includes current time, fast setting alarm etc.
+The main panel includes `current time`, `fast setting alarm` etc.
 
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_start.png)
 
 # Start an Alarm
 
-You can click the SIX buttons(+1, +5, + 30, -1, -5, -30) to fast setting 
+You can click the SIX buttons(`+1`, `+5`, `+30`, `-1`, `-5`, `-30`) to fast setting 
 
 or select the ring time(hour, minute, second) to start an alarm.
 
@@ -30,19 +30,19 @@ or select the ring time(hour, minute, second) to start an alarm.
 
 # File menu
 
-File menu panel includes 'Mini', 'About Alarm' and 'Exit' menu.
+File menu panel includes `Mini`, `About Alarm` and `Exit` menu.
 
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_file.png)
 
 # Mini Panel
 
-'CTRL + M' will exchange Mini(hide the play list) or Normal(with the play list) panel.
+`CTRL + M` will exchange `Mini(hide the play list)` or `Normal(with the play list)` panel.
 
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_mini.png)
 
 # Tray tool
 
-Tray tool includes 'Mini', 'Restore' and 'Exit' menu.
+Tray tool includes `Mini`, `Restore` and `Exit` menu.
 
 ![Example](https://github.com/Hongten/alarm_v2/blob/master/image/alarm_tray.png)
 
